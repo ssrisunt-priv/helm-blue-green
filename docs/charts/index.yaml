@@ -1,14 +1,14 @@
 apiVersion: v1
 entries:
-  helm-guestbook:
+  helm-blue-green:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-07-30T21:35:53.501956-05:00"
+    created: "2025-07-30T22:16:47.855494-05:00"
     description: A Helm chart for Kubernetes
-    digest: 5928ed116d29aae06268ff93177c0fbd8c1734c94de2897553374fee3c5a0624
-    name: helm-guestbook
+    digest: eceb0e3b29ed2d208cfde63924bdf1e73746892fac318d0b8d93ea8b4a3dba23
+    name: helm-blue-green
     type: application
     urls:
-    - https://ssrisunt-priv.github.io/helm-blue-green/charts/helm-guestbook-0.1.0.tgz
+    - https://ssrisunt-priv.github.io/helm-blue-green/charts/helm-blue-green-0.1.0.tgz
     version: 0.1.0
-generated: "2025-07-30T21:35:53.501175-05:00"
+generated: "2025-07-30T22:16:47.851539-05:00"
